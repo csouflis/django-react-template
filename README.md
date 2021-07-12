@@ -161,16 +161,16 @@ I love this django course, especially for beginners: https://www.dj4e.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/csouflis/django-react-template
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/csouflis/django-react-template
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/csouflis/django-react-template
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/csouflis/django-react-template
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/csouflis/django-react-template
+[contributors-shield]: https://img.shields.io/github/contributors/csouflis/django-react-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/csouflis/django-react-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/csouflis/django-react-template.svg?style=for-the-badge
+[forks-url]: https://github.com/csouflis/django-react-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/csouflis/django-react-template.svg?style=for-the-badge
+[stars-url]: https://github.com/csouflis/django-react-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/csouflis/django-react-template.svg?style=for-the-badge
+[issues-url]: https://github.com/csouflis/django-react-template/issues
+[license-shield]: https://img.shields.io/github/license/csouflis/django-react-template.svg?style=for-the-badge
+[license-url]: https://github.com/csouflis/django-react-template/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/csouflis
+[linkedin-url]: https://www.linkedin.com/in/christopher-souflis/
 [product-screenshot]: images/preview.PNG
