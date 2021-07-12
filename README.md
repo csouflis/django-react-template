@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/">
-    <img src="images/django_react_logos.png" alt="Logo" width="80" height="80">
+    <img src="images/django_react_logos.png" alt="Logo">
   </a>
 
   <h3 align="center">Django-React Template</h3>
