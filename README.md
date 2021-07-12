@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 There are many Django-React boilerplates and some templates on Github. Most of these repos don't simply give you a blank Django-React project to expand code easily - they have many dependencies or seem complicated. In this template, simply edit the React code to change your frontend, and add apps to the Django framework for backend functionality. This template can become a very powerful web application through a fully-featured, rapid-development Django backend, and a UI-centric interactive frontend.
 
@@ -162,15 +162,15 @@ I love this django course, especially for beginners: https://www.dj4e.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/
+[contributors-url]: https://github.com/csouflis/django-react-template
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/
+[forks-url]: https://github.com/csouflis/django-react-template
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/
+[stars-url]: https://github.com/csouflis/django-react-template
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/
+[issues-url]: https://github.com/csouflis/django-react-template
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/
+[license-url]: https://github.com/csouflis/django-react-template
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/csouflis
 [product-screenshot]: images/preview.PNG
